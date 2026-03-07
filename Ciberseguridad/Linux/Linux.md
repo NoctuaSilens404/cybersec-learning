@@ -1,0 +1,6 @@
+
+Linux es un sistema operativo de código abierto basado en Unix. Fue creado por Linus Torvalds en 1991 y es uno de los sistemas operativos más populares y ampliamente utilizados en todo el mundo. Linux es utilizado en una amplia gama de dispositivos, desde servidores de gran escala hasta smartphones y otros dispositivos móviles.
+
+Una de las características más distintivas de Linux es su naturaleza de código abierto, lo que significa que el código fuente está disponible para ser modificado y distribuido por cualquier persona. Esto ha permitido a la comunidad de desarrolladores de todo el mundo contribuir y mejorar el sistema operativo.
+
+Linux también se destaca por su estabilidad, seguridad y escalabilidad, lo que lo hace ideal para su uso en entornos empresariales y de servidor. Además, Linux es compatible con una amplia gama de [[Software]] y aplicaciones, incluidas muchas aplicaciones de código abierto, lo que significa que es una opción económica y accesible para muchas organizaciones.

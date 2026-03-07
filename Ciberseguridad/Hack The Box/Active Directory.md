@@ -1,0 +1,3 @@
+![[Active directory.jpg]]
+
+Active Directory (AD) es un servicio de directorio que proporciona autenticación y autorización para recursos informáticos en una red de Windows. Permite la centralización de la gestión de usuarios, grupos, computadoras y otros recursos en un entorno de red. AD también permite la implementación de políticas de seguridad y control de acceso a recursos, y es ampliamente utilizado en entornos empresariales y gubernamentales. En ciberseguridad, Active Directory es un componente crítico para garantizar la integridad y seguridad de los datos y los sistemas de una organización.
