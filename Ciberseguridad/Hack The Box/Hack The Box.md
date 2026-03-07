@@ -1,4 +1,0 @@
-
-![[Hack-The-Box-logo.png]]
-
-Hack the Box es una plataforma en línea que proporciona prácticas de hacking ético para profesionales de seguridad informática y entusiastas. La plataforma ofrece una amplia gama de máquinas virtuales que representan sistemas y aplicaciones vulnerables y que pueden ser hackeadas por los usuarios con el fin de mejorar sus habilidades y conocimientos en seguridad informática. Los usuarios pueden registrarse en la plataforma y unirse a una comunidad global de profesionales y entusiastas que comparten su interés por la seguridad informática. Además de las prácticas de hacking, Hack the Box también ofrece cursos y materiales de formación en seguridad informática. Es importante destacar que Hack the Box solo permite prácticas de hacking ético y está diseñado para ayudar a mejorar la seguridad de la información, no para causar daño o cometer delitos informáticos.
